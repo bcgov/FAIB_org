@@ -22,4 +22,7 @@ Utilizing silviculture data in RESULTS to generate Managed Stand Yield Tables
 ### [FAIBOracle](https://github.com/bcgov/FAIBOracle)
 R package to load data from three major oracle databases in Forest Analysis and Inventory Branch
 
+### [FAIB_wildlife](https://github.com/bcgov/FAIB_wildlife)
+Documentation of wildlife analyses to support timber supply reviews.
+
 
