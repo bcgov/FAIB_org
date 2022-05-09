@@ -19,6 +19,9 @@ Home for VRI and PSP compilers for FAIB
 ### [FAIB_MSYTs](https://github.com/bcgov/FAIB_MSYTs)
 Utilizing silviculture data in RESULTS to generate Managed Stand Yield Tables
 
+### [FAIB_PSPL](https://github.com/bcgov/FAIB_wildlife)
+Provincial Site Productivity Layer (PSPL) augmentation for producing Managed Stand Yield Tables (MSYTs).
+
 ### [FAIBOracle](https://github.com/bcgov/FAIBOracle)
 R package to load data from three major oracle databases in Forest Analysis and Inventory Branch
 
